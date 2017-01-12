@@ -1,0 +1,19 @@
+*{ margin: 0; padding: 0;}
+body{ background: #eee; font-size: 12px; letter-spacing: 1px;}
+li{ list-style-type: none;}
+a{ text-decoration: none; color: #333;}
+.fl{ float: left;}
+.fr{ float: right;}
+.clear{ clear: both;}
+
+
+.navbar{}
+.navbar li{}
+.navbar li .one_layer{ color:#444; display: block; line-height: 35px; font-size: 14px; font-weight: bold; padding-left:20px;}
+.navbar li .one_layer i.open{}
+.navbar li .one_layer i.close{}
+.navbar li .two_layer{}
+.navbar li .two_layer a{ display: block; line-height: 25px; color: #555; padding-left:20px;}
+.navbar li .two_layer a.on{ font-weight: bold;  color: #222; background: #ccc;}
+
+.add_menu{ color:#999; display: block; line-height: 35px; font-size: 14px; font-weight: bold; padding-left:20px;}

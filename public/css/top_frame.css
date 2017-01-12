@@ -1,0 +1,17 @@
+*{ margin: 0; padding: 0;}
+body{ height: 40px; background: #368ee0; font-size: 12px; letter-spacing: 1px;}
+li{ list-style-type: none;}
+a{ text-decoration: none; color: #333;}
+.fl{ float: left;}
+.fr{ float: right;}
+.clear{ clear: both;}
+
+/* ----------------------------------- */
+.title{ width: 160px;}
+
+.menu{}
+.menu ul{}
+.menu ul li{ float: left;}
+.menu ul li a{ color: #fff; line-height: 40px; display: block; padding: 0 18px;}
+.menu ul li a:hover{ background: #0088cc;}
+.menu ul li a.on{ color: #333; background: #fff;}

@@ -1,0 +1,32 @@
+/* base */
+.color_fff{ color: #fff;}
+.bg_color_fff{ background: #fff;}
+.margin_top_10{ margin-top: 10px;}
+.margin_top_20{ margin-top: 20px;}
+.margin_bottom_0{ margin-bottom: 0px;}
+.v_align_m{ vertical-align:middle !important;}
+/* base end */
+
+.wrap{ padding: 10px 15px;}
+.site_position{ color: #999;}
+.page_title{ font-size: 16px; border-left: 5px solid #ccc; color: #666; margin: 15px 0; padding-left: 10px;}
+
+.nav_bg{ background: #368ee0;}
+.nav_text_color{ color: #fff;}
+.nav_active_bg{ background: #fff; color: #000;}
+.nav_text_color:hover,.nav_text_color:focus{ background: #fff !important; color: #000;}
+
+.menu_left{float: left; width: 10%; background: #eee;}
+
+.one_layer{color:#444 !important; font-weight: bold; padding-left:20px; line-height: 35px;}
+.two_layer a{ font-size: 12px; display: block; color: #555 !important; line-height: 25px; padding-left:20px;}
+.two_layer a.on{ font-weight: bold;  color: #222; background: #ccc;}
+
+.main{float: left; width: 90%;}
+
+.tab_wrap{ border: 2px solid #368ee0;}
+.tab_wrap .title{ height: 35px; background: #368ee0; line-height: 35px; color:#fff; padding-left: 10px; font-size: 15px;}
+.tab_wrap .title a{ float: right; margin-right: 15px; color: #fff;}
+.edit_tab_wrap{ border: 2px solid #fff;}
+.edit_tab_wrap .title{ border-radius:3px; height: 35px; background: #368ee0; line-height: 35px; color:#fff; padding-left: 10px; font-size: 15px;}
+.edit_tab_wrap .title a{ float: right; margin-right: 15px; color: #fff;}
